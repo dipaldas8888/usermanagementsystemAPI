@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dipaldas</groupId>
-	<artifactId>usermanagementsystem</artifactId>
+	<artifactId>usermanagementsystemAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>usermananagementsystem</name>
 	<description>Demo project for Spring Boot</description>
